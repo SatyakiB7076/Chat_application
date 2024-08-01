@@ -12,7 +12,7 @@ A real-time chat application built using HTML, CSS, JavaScript, Node.js, and Soc
 
 ## Screenshots
 
-![Chat Application Screenshot]([https://user-images.githubusercontent.com/yourusername/chat-app-screenshot.png](https://github.com/SatyakiB7076/TextUtils-React/blob/main/chat_application.jpg))
+![Chat Application Screenshot](https://github.com/SatyakiB7076/TextUtils-React/blob/main/chat_application.jpg)
 
 ## Installation
 
