@@ -10,7 +10,7 @@ A real-time chat application built using HTML, CSS, JavaScript, Node.js, and Soc
 - Message timestamps
 - Responsive design
 
-## Screenshots
+## demo
 
 ![Chat Application Screenshot](https://github.com/SatyakiB7076/TextUtils-React/blob/main/chat_application.jpg)
 
