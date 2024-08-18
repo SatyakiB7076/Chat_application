@@ -19,7 +19,7 @@ A real-time chat application built using HTML, CSS, JavaScript, Node.js, and Soc
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/chat-application.git
+   git clone https://github.com/SatyakiB7076/Chat_application.git
 Navigate to the project directory:
 
       cd chat-application
